@@ -1,0 +1,30 @@
+{
+  "name": "vue-webpack-",
+  "version": "1.0.0",
+  "description": "todo项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjs1995/vue-webpack-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjs1995/vue-webpack-/issues"
+  },
+  "homepage": "https://github.com/sjs1995/vue-webpack-#readme",
+  "dependencies": {
+    "css-loader": "^3.2.0",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.1",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.39.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.7"
+  }
+}
